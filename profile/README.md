@@ -57,7 +57,7 @@ Go to [Among Us](https://amongus-online.io/) Unblocked.
 
 Click Play Now to start a game.
 
-#### Step 2: Choose a Mode
+### Step 2: Choose a Mode
 
 Public Match – Join a random lobby with players from around the world.
 
